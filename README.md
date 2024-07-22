@@ -18,5 +18,5 @@ Prerequisites:
 Python 3.x
 Flask
 Microsoft Translator API Key
-Installation:Clone the Repository:
+Installation:Clone the Repository:https://github.com/Aj22122003/Codealpha_Artificial-intelligence_Ajinkya.K/blob/main/Language%20Translation%20Tool_git%20attributes
 
