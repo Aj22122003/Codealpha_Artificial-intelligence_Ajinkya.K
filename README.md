@@ -18,3 +18,5 @@ Prerequisites:
 Python 3.x
 Flask
 Microsoft Translator API Key
+Installation:Clone the Repository:
+
