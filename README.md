@@ -69,5 +69,6 @@ We'd love your help! Feel free to send pull requests with bug fixes, improvement
 This project is under the [MIT License](LICENSE). 📝
 
 ## 📧 Contact
-
+Ajinkya Kutarmare
+Email:kutarmareajinkya52@gmail.com
 Have questions or feedback? Let us know! 😊
